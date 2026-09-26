@@ -1,4 +1,4 @@
-# 🚀 Mastering Python Requests for Data Engineering
+# 🚀 Mastering Python Requests
 
 Este repositorio contiene el codigo para el aprendizaje progresivo de la librería `requests` de Python.
 ---
